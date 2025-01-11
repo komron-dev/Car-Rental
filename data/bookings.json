@@ -1,0 +1,20 @@
+[
+    {
+        "car_id": "7",
+        "email": "a@gmail.com",
+        "start_date": "2025-01-17",
+        "end_date": "2025-01-19"
+    },
+    {
+        "car_id": "11",
+        "email": "k@gmail.com",
+        "start_date": "2025-01-23",
+        "end_date": "2025-01-30"
+    },
+    {
+        "car_id": "5",
+        "email": "spider@g.com",
+        "start_date": "2025-01-10",
+        "end_date": "2025-01-13"
+    }
+]

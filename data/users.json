@@ -1,0 +1,72 @@
+[
+    {
+        "full_name": "Komron F",
+        "email": "k@gmail.com",
+        "password": "secret",
+        "is_admin": false,
+        "profile_image": "uploads\/default.png"
+    },
+    {
+        "full_name": "Admin User",
+        "email": "admin@ikarrental.hu",
+        "password": "admin",
+        "is_admin": true,
+        "profile_image": "uploads\/admin.png"
+    },
+    {
+        "full_name": "Tom Cruise",
+        "email": "tom@gmail.com",
+        "password": "secret",
+        "is_admin": false,
+        "profile_image": "uploads\/defualt.png"
+    },
+    {
+        "full_name": "Leo Messi",
+        "email": "leo@gmail.com",
+        "password": "secret",
+        "is_admin": false,
+        "profile_image": "uploads\/defualt.png"
+    },
+    {
+        "full_name": "Javoh",
+        "email": "j@mail.com",
+        "password": "secret",
+        "is_admin": false,
+        "profile_image": "uploads\/defualt.png"
+    },
+    {
+        "full_name": "John Doe",
+        "email": "john@gmail.com",
+        "password": "secret",
+        "is_admin": false,
+        "profile_image": "uploads\/defualt.png"
+    },
+    {
+        "full_name": "John Doe",
+        "email": "doe@gmail.com",
+        "password": "secret",
+        "is_admin": false,
+        "profile_image": "uploads\/defualt.png"
+    },
+    {
+        "full_name": "Adam",
+        "email": "a@gmail.com",
+        "password": "secret",
+        "is_admin": false,
+        "profile_image": "uploads\/1736598489_images.jpeg"
+    },
+    {
+        "full_name": "Istvan",
+        "email": "i@g.com",
+        "password": "secret",
+        "is_admin": false,
+        "profile_image": "uploads\/default.png"
+    },
+    {
+        "full_name": "Peter Parker",
+        "email": "spider@g.com",
+        "password": "secret",
+        "is_admin": false,
+        "profile_image": "uploads\/1736623237_spider.jpg"
+    }
+]
