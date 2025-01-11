@@ -1,4 +1,4 @@
-# iKarRental – PHP Car Rental Application
+# Car Rental – PHP Car Rental Application
 
 iKarRental is a **PHP** web application that allows users to browse, filter, and book rental cars uploaded by an administrator. This was created as part of a PHP assignment, with an emphasis on server‐side logic, form validation, user authentication, and a polished UI/UX.
 
