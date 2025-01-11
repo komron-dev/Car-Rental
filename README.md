@@ -73,6 +73,11 @@ iKarRental is a **PHP** web application that allows users to browse, filter, and
 - **Profile**: See your reservations. Edit name/photo via “Edit Profile.” Logout any time.  
 - **Admin**: Log in as `admin@ikarrental.hu` / `admin` (or create a user and set `"is_admin": true` in `users.json`). Manage cars, see all bookings, remove or edit them as needed.
 
+### How to run the program
+```bash
+php -S localhost:8000
+```
+Port number can be any number
 ## Important Notes
 
 - **No external PHP frameworks** are used, only basic PHP, JSON files, and a custom `Storage` class.  
